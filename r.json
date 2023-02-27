@@ -8,7 +8,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "point",
+      "name" : "geopoint2",
       "number" : 0
     }
   }, {
@@ -19,7 +19,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "point",
+      "name" : "end",
       "number" : 409
     }
   }]
