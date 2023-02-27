@@ -12,7 +12,7 @@
       "number" : 0
     }
   },
-                "type" : "FeatureCollection",
+   {"type" : "FeatureCollection",
   "features" : [ {
     "type" : "Feature",
     "geometry" : {
