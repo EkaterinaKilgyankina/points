@@ -4,111 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.48431, 59.94486 ]
+      "coordinates" : [ 59.916333449999996, 30.318890636360862 ]
     },
     "properties" : {
       "Type" : "Halt",
-      "name" : "ул. Осипенко",
+      "name" : "Технологический институт",
       "number" : 0
     }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.478287, 59.94474 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "point",
-      "number" : 409
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.478446, 59.944757 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "point",
-      "number" : 410
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.47856, 59.944766 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "point",
-      "number" : 411
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.478597, 59.944769 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "point",
-      "number" : 412
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.48182, 59.944838 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "point",
-      "number" : 415
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.483944, 59.944878 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "point",
-      "number" : 416
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.484308, 59.944884 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "point",
-      "number" : 417
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.48835, 59.93651 ]
-    },
-    "properties" : {
-      "Type" : "Halt",
-      "name" : "пр. Наставников",
-      "number" : 418
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.489568, 59.940466 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "point",
-      "number" : 422
-    }
-  } ]
+  }]
 }
