@@ -4,25 +4,23 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.318890636360862, 59.916333449999996]
+      "coordinates" : [ 30.318890636360862  , 59.916333449999996 ]
     },
     "properties" : {
-      "Type" : "Halt",
-      "name" : "Технологический институт",
+      "Type" : "point",
+      "name" : "point",
       "number" : 0
     }
-  },
-   {"type" : "FeatureCollection",
-  "features" : [ {
+  }, {
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.318510099999997, 59.91646]
+      "coordinates" : [ 30.318510099999997, 59.91646 ]
     },
     "properties" : {
-      "Type" : "Halt",
-      "name" : "Технологический институт",
-      "number" : 0
+      "Type" : "point",
+      "name" : "point",
+      "number" : 409
     }
   }]
 }
