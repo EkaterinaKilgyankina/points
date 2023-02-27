@@ -11,5 +11,19 @@
       "name" : "Технологический институт",
       "number" : 0
     }
+  },
+                "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.318510099999997, 59.91646]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Технологический институт",
+      "number" : 0
+    }
   }]
 }
+
