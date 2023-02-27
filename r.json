@@ -22,6 +22,18 @@
       "name" : "end",
       "number" : 409
     }
+  },
+               {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.31889, 59.916334 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "end",
+      "number" : 409
+    }
   }]
 }
 
