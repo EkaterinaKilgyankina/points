@@ -4,7 +4,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 59.916333449999996, 30.318890636360862 ]
+      "coordinates" : [ 30.318890636360862, 59.916333449999996]
     },
     "properties" : {
       "Type" : "Halt",
