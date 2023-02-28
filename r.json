@@ -15,7 +15,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "end_from grapf",
-      "coordinates" : [ 30.318039, 559.915619 ]
+      "coordinates" : [ 30.318039, 59.915619 ]
     },
     "properties" : {
       "Type" : "point",
