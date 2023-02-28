@@ -87,7 +87,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end",
+      "name" : "foot",
       "number" :5
     }
   },{
@@ -98,7 +98,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end",
+      "name" : "foot",
       "number" : 6
     }
   },{
@@ -109,7 +109,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end",
+      "name" : "foot",
       "number" : 7
     }
   },{
@@ -120,7 +120,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end",
+      "name" : "foot",
       "number" : 8
     }
   },{
@@ -131,7 +131,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end",
+      "name" : "foot",
       "number" : 9
     }
   },{
@@ -142,7 +142,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end",
+      "name" : "foot",
       "number" : 10
     }
   },{
@@ -153,7 +153,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end",
+      "name" : "foot",
       "number" : 11
     }
   },{
@@ -164,7 +164,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end",
+      "name" : "foot",
       "number" : 12
     }
   }]
