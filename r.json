@@ -1,10 +1,19 @@
 {
+  result = {ArrayList@18740}  size = 9
+ 2 = {Coords@18744} "Coords(latitude=, longitude=)"
+ 3 = {Coords@18745} "Coords(latitude=, longitude=)"
+ 4 = {Coords@18746} "Coords(latitude=, longitude=)"
+ 5 = {Coords@18747} "Coords(latitude=, longitude=)"
+ 6 = {Coords@18748} "Coords(latitude=, longitude=)"
+ 7 = {Coords@18749} "Coords(latitude=, longitude=)"
+ 8 = {Coords@18750} "Coords(latitude=, longitude=)"
+  
   "type" : "FeatureCollection",
   "features" : [ {
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.317244  , 59.936565 ]
+      "coordinates" : [ 30.318515  , 59.916456 ]
     },
     "properties" : {
       "Type" : "point",
@@ -15,7 +24,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "end_from grapf",
-      "coordinates" : [ 30.317324, 59.936556 ]
+      "coordinates" : [ 30.317835, 59.915766 ]
     },
     "properties" : {
       "Type" : "Point",
@@ -27,7 +36,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.317238, 59.936373 ]
+      "coordinates" : [ 30.318766, 59.916436 ]
     },
     "properties" : {
       "Type" : "point",
@@ -38,7 +47,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.315205, 59.93657 ]
+      "coordinates" : [ 30.318736, 59.916652]
     },
     "properties" : {
       "Type" : "point",
@@ -49,7 +58,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.315084, 59.936287 ]
+      "coordinates" : [ 30.318575, 59.916719 ]
     },
     "properties" : {
       "Type" : "point",
@@ -60,7 +69,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.314883, 59.936216 ]
+      "coordinates" : [ 30.318297, 59.916282 ]
     },
     "properties" : {
       "Type" : "point",
@@ -71,7 +80,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.315022, 59.936117 ]
+      "coordinates" : [ 30.318439, 59.916256]
     },
     "properties" : {
       "Type" : "point",
@@ -82,7 +91,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.314958, 59.936097 ]
+      "coordinates" : [ 30.318693, 59.916294 ]
     },
     "properties" : {
       "Type" : "point",
@@ -93,7 +102,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.315022, 59.936055 ]
+      "coordinates" : [ 30.31889, 59.916334]
     },
     "properties" : {
       "Type" : "point",
