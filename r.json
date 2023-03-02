@@ -4,41 +4,30 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.31795799732211  , 59.9156175923159 ]
+      "coordinates" : [ 30.317244  , 59.936565 ]
     },
     "properties" : {
       "Type" : "point",
       "name" : "end_the nearest",
-      "number" : 1
+      "number" : 0
     }
   }, {
     "type" : "Feature",
     "geometry" : {
       "type" : "end_from grapf",
-      "coordinates" : [ 30.318039, 59.915619 ]
+      "coordinates" : [ 30.317324, 59.936556 ]
     },
     "properties" : {
       "Type" : "Point",
       "name" : "end_from grapf",
-      "number" : 2
+      "number" : 1
     }
   },
                {
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.317926, 59.915651 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "end",
-      "number" : 1
-    }
-  },{
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.31791, 59.915923 ]
+      "coordinates" : [ 30.317238, 59.936373 ]
     },
     "properties" : {
       "Type" : "point",
@@ -49,56 +38,67 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.318313, 59.915928 ]
+      "coordinates" : [ 30.315205, 59.93657 ]
     },
     "properties" : {
       "Type" : "point",
       "name" : "end",
-      "number" :3
+      "number" : 3
     }
   },{
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.318299, 59.916229 ]
+      "coordinates" : [ 30.315084, 59.936287 ]
     },
     "properties" : {
       "Type" : "point",
       "name" : "end",
-      "number" : 4
+      "number" :4
     }
   },{
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.318439, 59.916256 ]
+      "coordinates" : [ 30.314883, 59.936216 ]
     },
     "properties" : {
       "Type" : "point",
       "name" : "end",
-      "number" : 1
+      "number" : 5
     }
   },{
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.318693, 59.916294 ]
+      "coordinates" : [ 30.315022, 59.936117 ]
     },
     "properties" : {
       "Type" : "point",
       "name" : "end",
-      "number" : 1
+      "number" : 6
     }
   },{
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.31889, 59.916334 ]
+      "coordinates" : [ 30.314958, 59.936097 ]
     },
     "properties" : {
       "Type" : "point",
       "name" : "end",
-      "number" : 1
+      "number" : 7
+    }
+  },{
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.315022, 59.936055 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "end",
+      "number" : 8
     }
   }]
 }
