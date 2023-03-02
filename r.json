@@ -1,13 +1,4 @@
-{
-  result = {ArrayList@18740}  size = 9
- 2 = {Coords@18744} "Coords(latitude=, longitude=)"
- 3 = {Coords@18745} "Coords(latitude=, longitude=)"
- 4 = {Coords@18746} "Coords(latitude=, longitude=)"
- 5 = {Coords@18747} "Coords(latitude=, longitude=)"
- 6 = {Coords@18748} "Coords(latitude=, longitude=)"
- 7 = {Coords@18749} "Coords(latitude=, longitude=)"
- 8 = {Coords@18750} "Coords(latitude=, longitude=)"
-  
+{  
   "type" : "FeatureCollection",
   "features" : [ {
     "type" : "Feature",
