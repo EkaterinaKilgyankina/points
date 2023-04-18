@@ -4,7 +4,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 30.318515  , 59.916456 ]
+      "coordinates" : [ 30.441375  , 59.933017 ]
     },
     "properties" : {
       "Type" : "point",
@@ -15,91 +15,14 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "end_from grapf",
-      "coordinates" : [ 30.317835, 59.915766 ]
+      "coordinates" : [ 30.441538, 59.933145 ]
     },
     "properties" : {
       "Type" : "Point",
       "name" : "end_from grapf",
       "number" : 1
     }
-  },
-               {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.318766, 59.916436 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "end",
-      "number" : 2
-    }
-  },{
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.318736, 59.916652]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "end",
-      "number" : 3
-    }
-  },{
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.318575, 59.916719 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "end",
-      "number" :4
-    }
-  },{
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.318297, 59.916282 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "end",
-      "number" : 5
-    }
-  },{
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.318439, 59.916256]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "end",
-      "number" : 6
-    }
-  },{
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.318693, 59.916294 ]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "end",
-      "number" : 7
-    }
-  },{
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 30.31889, 59.916334]
-    },
-    "properties" : {
-      "Type" : "point",
-      "name" : "end",
-      "number" : 8
-    }
+              
   }]
 }
 
