@@ -8,7 +8,7 @@
     },
     "properties" : {
       "Type" : "point",
-      "name" : "end_the nearest",
+      "name" : "stop 1",
       "number" : 0
     }
   }, {
@@ -19,7 +19,7 @@
     },
     "properties" : {
       "Type" : "Point",
-      "name" : "end_from grapf",
+      "name" : "stop 2",
       "number" : 1
     },
     {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "Type" : "Point",
-      "name" : "end_from grapf",
-      "number" : 1
+      "name" : "stop 3",
+      "number" : 2
     }
               
   }]
