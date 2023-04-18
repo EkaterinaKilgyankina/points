@@ -46,6 +46,21 @@
         "name": "stop 3",
         "number": 2
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "end_from grapf",
+        "coordinates": [
+          30.440332000000012,
+          59.932096
+        ]
+      },
+      "properties": {
+        "Type": "Point",
+        "name": "ладожская-2",
+        "number": 2
+      }
     }
   ]
 }
