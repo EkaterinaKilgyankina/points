@@ -57,7 +57,7 @@
         },
         "properties": {
           "Type": "Point",
-          "name": "ладожская-2",
+          "name": "stop 4",
           "number": 2
         }
       },
@@ -72,7 +72,7 @@
         },
         "properties": {
           "Type": "Point",
-          "name": "ладожская-2",
+          "name": "stop 5",
           "number": 2
         }
       },
@@ -87,7 +87,7 @@
         },
         "properties": {
           "Type": "Point",
-          "name": "ладожская-2",
+          "name": "stop 6",
           "number": 2
         }
       },
@@ -102,7 +102,7 @@
         },
         "properties": {
           "Type": "Point",
-          "name": "ладожская-2",
+          "name": "stop 7",
           "number": 2
         }
       }
