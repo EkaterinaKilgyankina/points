@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.440239,
+            59.932146
+          ]
+        },
+        "properties": {
+          "Type": "point",
+          "name": "stop 1",
+          "number": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "end_from grapf",
+          "coordinates": [
+            30.440256,
+            59.932138
+          ]
+        },
+        "properties": {
+          "Type": "Point",
+          "name": "stop 2",
+          "number": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "end_from grapf",
+          "coordinates": [
+            30.439953,
+            59.931899
+          ]
+        },
+        "properties": {
+          "Type": "Point",
+          "name": "stop 3",
+          "number": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "end_from grapf",
+          "coordinates": [
+            30.439739,
+            59.931731
+          ]
+        },
+        "properties": {
+          "Type": "Point",
+          "name": "ладожская-2",
+          "number": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "end_from grapf",
+          "coordinates": [
+            30.439928,
+            59.931812
+          ]
+        },
+        "properties": {
+          "Type": "Point",
+          "name": "ладожская-2",
+          "number": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "end_from grapf",
+          "coordinates": [
+            30.440028,
+            59.931891
+          ]
+        },
+        "properties": {
+          "Type": "Point",
+          "name": "ладожская-2",
+          "number": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "end_from grapf",
+          "coordinates": [
+            30.440301,
+            59.932106
+          ]
+        },
+        "properties": {
+          "Type": "Point",
+          "name": "ладожская-2",
+          "number": 2
+        }
+      }
+    ]
+  }
+  
